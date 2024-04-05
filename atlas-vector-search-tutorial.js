@@ -1,7 +1,7 @@
 const { MongoClient } = require("mongodb");
-
+require('dotenv').config();
 // connect to your Atlas cluster
-const uri = "mongodb+srv://dbUser:Mongo123456!@cluster0.rzxvwpk.mongodb.net/";
+const uri = process.env.MONGO_CONNECTION_URL;
     
 const client = new MongoClient(uri);
 
