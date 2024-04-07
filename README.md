@@ -1,3 +1,6 @@
+Demo Video:
+https://youtu.be/A434cM_zBD0?si=4rUuRdBYp0qxy-f-
+
 This project is modified upon How to Perform Semantic Search Against Data in Your Atlas Cluster
 https://www.mongodb.com/docs/atlas/atlas-vector-search/tutorials/vector-search-tutorial/
 
